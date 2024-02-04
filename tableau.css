@@ -1,0 +1,26 @@
+
+th {
+    background-color: rgb(108, 193, 233);
+    color : white;
+    padding : 15px 20px;
+    border : 0.5px solid rgb(108, 193, 233);
+}
+
+
+tr {
+    background-color: whitesmoke;
+    color : black;
+    padding : 15px 20px;
+}
+
+body{
+    background-color: black;
+    color : black;
+    border-collapse: collapse;
+    font-family: Arial, Helvetica, sans-serif;
+    width : 300px;
+    box-shadow: 0 3px 50px rgba(108, 193, 233,0.80);
+    margin: 100px auto;
+    
+}
+
